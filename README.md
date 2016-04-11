@@ -6,4 +6,4 @@ Use a docker registry in private
 
     $ vagrant up
     $ cd /vagrant
-    $ sudo docker compose up -d
+    $ sudo docker-compose up -d
